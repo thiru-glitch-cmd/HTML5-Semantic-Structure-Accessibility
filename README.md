@@ -1,6 +1,6 @@
 # Personal Portfolio Website – Semantic HTML5 & Accessibility
 
-## 📌 Project Overview
+##  Project Overview
 
 This project is a fully accessible and SEO-friendly multi-page personal portfolio website built using modern HTML5 semantic elements and CSS. The website follows WCAG accessibility guidelines and incorporates best practices for usability, navigation, and search engine optimization.
 
@@ -8,7 +8,7 @@ The portfolio showcases personal information, skills, projects, and contact deta
 
 ---
 
-## 🚀 Features
+##  Features
 
 ### Semantic HTML5 Structure
 
@@ -45,7 +45,7 @@ The portfolio showcases personal information, skills, projects, and contact deta
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 portfolio-website/
@@ -60,7 +60,7 @@ portfolio-website/
 
 ---
 
-## 📄 Pages Included
+##  Pages Included
 
 ### Home Page
 
@@ -94,7 +94,7 @@ portfolio-website/
 
 ---
 
-## ♿ Accessibility Features
+##  Accessibility Features
 
 * Semantic HTML5 landmarks
 * ARIA labels and navigation roles
@@ -105,7 +105,7 @@ portfolio-website/
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 This project demonstrates:
 
