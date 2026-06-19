@@ -131,7 +131,7 @@ This project demonstrates:
 
 **Thirumalai R**
 
-BCA Data Science Student
+BCA Data Science Student |
 Web Developer | UI/UX Enthusiast
 ---
 
