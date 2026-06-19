@@ -85,7 +85,7 @@ portfolio-website/
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 * HTML5
 * CSS3
@@ -117,7 +117,7 @@ This project demonstrates:
 
 ---
 
-## 📸 Future Enhancements
+## Future Enhancements
 
 * Dark mode support
 * Project filtering functionality
@@ -133,8 +133,5 @@ This project demonstrates:
 
 BCA Data Science Student
 Web Developer | UI/UX Enthusiast
-
-GitHub: [https://github.com/thiru-glitch-cmd](https://github.com/thiru-glitch-cmd)
-
 ---
 
